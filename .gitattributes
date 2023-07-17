@@ -1,0 +1,7 @@
+splicing_detect.h5 filter=lfs diff=lfs merge=lfs -text
+images/ filter=lfs diff=lfs merge=lfs -text
+testing_set/ filter=lfs diff=lfs merge=lfs -text
+training_set/ filter=lfs diff=lfs merge=lfs -text
+input/ filter=lfs diff=lfs merge=lfs -text
+2cam_original/ filter=lfs diff=lfs merge=lfs -text
+4cam_spliced/ filter=lfs diff=lfs merge=lfs -text
