@@ -1,8 +1,8 @@
 # Image-Forgery-Detection
 _____________________________________________________________________________________________________________________________________
 to access this project download and zip the file and open it any editor (recommended "VS CODE")  and run MYGUI.py file.
-for splicing detection train the 4cam_original and 4cam_spliced images which avialable in the folder
-the training code is avialable in mytraining_splice.ipynb 
+for splicing detection train the 4cam_original and 4cam_spliced images which available in the folder
+the training code is available in mytraining_splice.ipynb 
 
 # we have taken the dataset from columbia university
 _____________________________________________________________________________________________________________________________________
