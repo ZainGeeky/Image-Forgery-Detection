@@ -56,7 +56,7 @@ def getImage(path, width, height):
     :return: The image represented as a PhotoImage object
     """
     img = Image.open(path)
-    img = img.resize((width, height), Image.ANTIALIAS)
+    img = img.resize((width, height), Image.LANCZOS)
 
     return ImageTk.PhotoImage(img)
 
